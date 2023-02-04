@@ -1,0 +1,8 @@
+C:\Users\GOAT\source\repos\duplicate_check\bin\Debug\duplicate_check.exe.config
+C:\Users\GOAT\source\repos\duplicate_check\bin\Debug\duplicate_check.exe
+C:\Users\GOAT\source\repos\duplicate_check\bin\Debug\duplicate_check.pdb
+C:\Users\GOAT\source\repos\duplicate_check\obj\Debug\duplicate_check.csproj.AssemblyReference.cache
+C:\Users\GOAT\source\repos\duplicate_check\obj\Debug\duplicate_check.csproj.SuggestedBindingRedirects.cache
+C:\Users\GOAT\source\repos\duplicate_check\obj\Debug\duplicate_check.csproj.CoreCompileInputs.cache
+C:\Users\GOAT\source\repos\duplicate_check\obj\Debug\duplicate_check.exe
+C:\Users\GOAT\source\repos\duplicate_check\obj\Debug\duplicate_check.pdb
